@@ -102,7 +102,7 @@ After testing dozens of habit trackers, we found the criteria that matter most a
 - Clean, distraction-free interface
 - Reliable reminders that actually fire on Android
 - Streak charts with weekly and monthly views
-- ₹99/month or ₹299/year — best value in India
+- ₹100/month or ₹300/year — best value in India
 - No ads, no dark patterns
 
 ### App B

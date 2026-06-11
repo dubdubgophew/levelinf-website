@@ -48,7 +48,7 @@ const faqs = [
   },
   {
     q: 'What does Premium cost in India?',
-    a: '₹99 per month or ₹299 per year (save 75%). Both plans include unlimited habits and all future features.',
+    a: '₹100 per month or ₹300 per year (save 75%). Both plans include unlimited habits and all future features.',
   },
   {
     q: 'Does it work offline?',
@@ -209,7 +209,7 @@ export default function Home() {
             {/* Monthly */}
             <div className="bg-white rounded-2xl border border-gray-200 p-8 flex flex-col">
               <h3 className="font-bold text-gray-900 text-xl mb-1">Premium Monthly</h3>
-              <div className="text-3xl font-extrabold text-gray-900 mb-1">₹99<span className="text-base font-normal text-gray-400">/mo</span></div>
+              <div className="text-3xl font-extrabold text-gray-900 mb-1">₹100<span className="text-base font-normal text-gray-400">/mo</span></div>
               <p className="text-xs text-gray-400 mb-6">Billed monthly</p>
               <ul className="space-y-2 text-sm text-gray-600 mb-8 flex-1">
                 <li className="flex gap-2"><span className="text-brand-500">✓</span> Unlimited habits</li>
@@ -234,7 +234,7 @@ export default function Home() {
                 BEST VALUE
               </div>
               <h3 className="font-bold text-white text-xl mb-1">Premium Yearly</h3>
-              <div className="text-3xl font-extrabold text-white mb-1">₹299<span className="text-base font-normal text-green-200">/yr</span></div>
+              <div className="text-3xl font-extrabold text-white mb-1">₹300<span className="text-base font-normal text-green-200">/yr</span></div>
               <p className="text-xs text-green-200 mb-6">Save 75% vs monthly</p>
               <ul className="space-y-2 text-sm text-green-100 mb-8 flex-1">
                 <li className="flex gap-2"><span className="text-white">✓</span> Unlimited habits</li>

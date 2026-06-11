@@ -42,8 +42,8 @@ export default function Terms() {
         <section>
           <h2 className="text-lg font-bold text-gray-900 mb-3">3. Premium Subscriptions</h2>
           <p className="mb-3">
-            Level Inf offers a free tier and a Premium subscription available as a monthly (₹99/month) or
-            annual (₹299/year) plan.
+            Level Inf offers a free tier and a Premium subscription available as a monthly (₹100/month) or
+            annual (₹300/year) plan.
           </p>
           <p className="mb-3">
             Subscriptions are processed by Google Play Billing. By purchasing a subscription, you agree to

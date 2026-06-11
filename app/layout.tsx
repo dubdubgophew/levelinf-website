@@ -102,24 +102,24 @@ const appSchema = {
     },
     {
       '@type': 'Offer',
-      price: '99',
+      price: '100',
       priceCurrency: 'INR',
       description: 'Premium monthly — unlimited habits',
       priceSpecification: {
         '@type': 'UnitPriceSpecification',
-        price: '99',
+        price: '100',
         priceCurrency: 'INR',
         unitCode: 'MON',
       },
     },
     {
       '@type': 'Offer',
-      price: '299',
+      price: '300',
       priceCurrency: 'INR',
       description: 'Premium yearly — best value',
       priceSpecification: {
         '@type': 'UnitPriceSpecification',
-        price: '299',
+        price: '300',
         priceCurrency: 'INR',
         unitCode: 'ANN',
       },
